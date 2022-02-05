@@ -1,0 +1,2 @@
+javac unsw/enrolment/Course.java unsw/enrolment/CourseOffering.java unsw/enrolment/Grade.java unsw/enrolment/Lab.java unsw/enrolment/Lecture.java unsw/enrolment/Session.java unsw/enrolment/Student.java unsw/enrolment/Tutorial.java unsw/enrolment/test/EnrolmentTest.java
+java unsw.enrolment.test.EnrolmentTest
